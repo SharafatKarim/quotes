@@ -2,6 +2,8 @@
 
  A captivating GitHub repository where friends come together to share their priceless words and inspiring quotes. Immerse yourself in a tapestry of thought-provoking insights, profound reflections, and uplifting messages crafted by a collective of brilliant minds. Unlock a treasure trove of wisdom as you explore the exquisite collection, offering glimpses of inspiration, motivation, and enlightenment. 
 
+ [![run readme_gen.py](https://github.com/SharafatKarim/quotes/actions/workflows/action.yml/badge.svg)](https://github.com/SharafatKarim/quotes/actions/workflows/action.yml)
+
 ## sharafat
 - There's no end to EXPLORATION!
 
