@@ -3,6 +3,7 @@
  A captivating GitHub repository where friends come together to share their priceless words and inspiring quotes. Immerse yourself in a tapestry of thought-provoking insights, profound reflections, and uplifting messages crafted by a collective of brilliant minds. Unlock a treasure trove of wisdom as you explore the exquisite collection, offering glimpses of inspiration, motivation, and enlightenment. 
 
  [![readme generator](https://github.com/SharafatKarim/quotes/actions/workflows/action.yml/badge.svg)](https://github.com/SharafatKarim/quotes/actions/workflows/action.yml)
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
  ![](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
