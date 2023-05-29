@@ -6,6 +6,7 @@
 
 ## sharafat
 - There's no end to EXPLORATION!
+- You'll lose the moment, you give up.
 
 # Contribution
 
