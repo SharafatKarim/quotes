@@ -1,8 +1,11 @@
 name: run readme_gen.py
 
 on:
-  schedule:
-    - cron: '5 0 * * *' # At 00:00 on Monday
+  # schedule:
+    # - cron: '5 0 * * *' # At 00:00 on Monday
+  workflow_dispatch: # Putting here is also fine!!
+  release:
+        types: [created]
 
 jobs:
   build:
