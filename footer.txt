@@ -4,5 +4,6 @@ Let the power of words weave its magic, igniting sparks of inspiration and foste
 
 ## How to Contribute
 Follow the [Tutorial](tutorial.md) to add your own words of wisdom to the website.
+- [Tutorial to contribution](tutorial.md)
 
 ![Alt](https://repobeats.axiom.co/api/embed/f3297de60f19e6a1980b69d2f3301fefa015d428.svg "Repobeats analytics image")
