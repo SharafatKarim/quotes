@@ -11,6 +11,10 @@
 - There's no end to EXPLORATION!
 - You'll lose the moment, you give up.
 
+## NAYEMA
+-  Constantly transform the thoughts of the mind into reality.
+-  Never hide your weakness.
+
 ## sr-tamim
 - It is better to export talent than waste it
 - The quieter you become, the more you are able to hear
