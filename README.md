@@ -23,6 +23,9 @@
 - What don't kills you makes you more strong.
 - Inefficiency should be punishable.
 
+## SadmanKabir
+- In the midst of chaos, creativity finds its wings.
+
 # Contribution
 
 Let the power of words weave its magic, igniting sparks of inspiration and fostering a vibrant community united by the beauty of language. Join us on this remarkable journey of sharing, connecting, and celebrating the extraordinary impact of words in our lives. Welcome to "Words of Wisdom," where every contribution shines brightly, illuminating the path to greatness.
