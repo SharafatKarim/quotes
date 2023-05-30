@@ -25,6 +25,7 @@
 
 ## SadmanKabir
 - In the midst of chaos, creativity finds its wings.
+- Be yourself; everyone else is already taken.
 
 # Contribution
 
