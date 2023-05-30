@@ -26,6 +26,7 @@
 ## SadmanKabir
 - In the midst of chaos, creativity finds its wings.
 - Be yourself; everyone else is already taken.
+- Life is really simple, but we insist on making it complicated.
 
 # Contribution
 
