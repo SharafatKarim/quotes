@@ -7,27 +7,26 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-## SadmanKabir
-- In the midst of chaos, creativity finds its wings.
-- Be yourself; everyone else is already taken.
-- Life is really simple, but we insist on making it complicated.
-- Believe in yourself, for you are capable of extraordinary things.
-
-## nabil
-- What don't kills you makes you more strong.
-- Inefficiency should be punishable.
-
-## sr-tamim
-- It is better to export talent than waste it
-- The quieter you become, the more you are able to hear
+## sharafat
+- There's no end to EXPLORATION!
+- You'll lose the moment, you give up.
 
 ## NAYEMA
 -  Constantly transform the thoughts of the mind into reality.
 -  Never hide your weakness.
 
-## sharafat
-- There's no end to EXPLORATION!
-- You'll lose the moment, you give up.
+## sr-tamim
+- It is better to export talent than waste it
+- The quieter you become, the more you are able to hear
+
+## nabil
+- What don't kills you makes you more strong.
+- Inefficiency should be punishable.
+
+## SadmanKabir
+- Be yourself; everyone else is already taken.
+- Life is really simple, but we insist on making it complicated.
+- Believe in yourself, for you are capable of extraordinary things.
 
 # Contribution
 
