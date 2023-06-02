@@ -7,6 +7,10 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
+## Maynul Islam Munna
+- It is not how you start it is how you finish.
+- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
+
 ## SadmanKabir
 - Be yourself; everyone else is already taken.
 - Life is really simple, but we insist on making it complicated.
@@ -18,7 +22,7 @@
 
 ## Maynul_Islam_Munna
 - It is not how you start it is how you finish.
-- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you`re going through right now,always remember that your present situation is not your final destination.Don`t give up.
+- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
 
 ## sr-tamim
 - It is better to export talent than waste it
