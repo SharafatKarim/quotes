@@ -33,6 +33,8 @@
 ## NAYEMA
 -  Constantly transform the thoughts of the mind into reality.
 -  Never hide your weakness.
+-  When you change your thoughts, remember to also change your world.
+-                                                                -Norman Vincent Peale
 
 ## sharafat
 - There's no end to EXPLORATION!
