@@ -19,6 +19,8 @@
 ## nabil
 - What don't kills you makes you more strong.
 - Inefficiency should be punishable.
+- Dream does come true, but what after that? More Dreams.
+- I am more thankful to my past selfs than they are proud of me.
 
 ## Maynul_Islam_Munna
 - It is not how you start it is how you finish.
