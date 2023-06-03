@@ -22,10 +22,6 @@
 - Dream does come true, but what after that? More Dreams.
 - I am more thankful to my past selfs than they are proud of me.
 
-## Maynul_Islam_Munna
-- It is not how you start it is how you finish.
-- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
-
 ## sr-tamim
 - It is better to export talent than waste it
 - The quieter you become, the more you are able to hear
