@@ -25,6 +25,7 @@
 ## sr-tamim
 - It is better to export talent than waste it
 - The quieter you become, the more you are able to hear
+- Don't waste time on woman
 
 ## NAYEMA
 -  Constantly transform the thoughts of the mind into reality.
