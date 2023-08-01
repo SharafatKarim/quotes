@@ -7,6 +7,7 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
+---
 ## sharafat
 - There's no end to EXPLORATION!
 - You'll lose the moment, you give up.
@@ -43,6 +44,7 @@
 - “It’s human nature not to realize the true value of something unless they lose it.” – Orochimaru (Anime: Naruto)
 - "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist." - Madara Uchiha (Anime: Naruto)
 
+---
 ---
 
 # Contribution
