@@ -14,8 +14,7 @@
 ## NAYEMA
 -  Constantly transform the thoughts of the mind into reality.
 -  Never hide your weakness.
--  When you change your thoughts, remember to also change your world.
-                                                                  -Norman Vincent Peale
+-  When you change your thoughts, remember to also change your world. -Norman Vincent Peale
 
 ## Maynul Islam Munna
 - It is not how you start it is how you finish.
@@ -42,7 +41,7 @@
 - “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Anton
 - "The difference between the novice and the master is that the master has failed more times than the novice has tried." -Korosensei (Anime: Assassination Classroom)
 - “It’s human nature not to realize the true value of something unless they lose it.” – Orochimaru (Anime: Naruto)
-- Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist. - Madara Uchiha(Anime:Naruto)
+- "Wake up to reality! Nothing ever goes as planned in this world. The longer you live, the more you realize that in this reality only pain, suffering and futility exist." - Madara Uchiha (Anime: Naruto)
 
 ---
 
