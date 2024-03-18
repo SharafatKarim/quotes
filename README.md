@@ -48,7 +48,7 @@
 - যাকে নিয়ে খারাপ কথা বলতে ভয় করে, তাকে নিয়ে ভালো কথা বলবো কেন?
 
 ## sharafat
-- There's no end to EXPLORATION!
+- There's no end to EXPLORATION!!!
 - You'll lose the moment, you give up.
 
 ## sr-tamim
