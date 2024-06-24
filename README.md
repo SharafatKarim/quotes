@@ -7,15 +7,6 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-## Maynul Islam Munna
-- It is not how you start it is how you finish.
-- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
-
-## NAYEMA
--  Constantly transform the thoughts of the mind into reality.
--  Never hide your weakness.
--  When you change your thoughts, remember to also change your world. -Norman Vincent Peale
-
 ## nabil
 - What don't kills you makes you more strong.
 - Inefficiency should be punishable.
@@ -55,6 +46,15 @@
 - It is better to export talent than waste it
 - The quieter you become, the more you are able to hear
 - Don't waste time on woman
+
+## NAYEMA
+-  Constantly transform the thoughts of the mind into reality.
+-  Never hide your weakness.
+-  When you change your thoughts, remember to also change your world. -Norman Vincent Peale
+
+## Maynul Islam Munna
+- It is not how you start it is how you finish.
+- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
 
 # Contribution
 
