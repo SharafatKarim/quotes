@@ -7,10 +7,6 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-## Maynul Islam Munna
-- It is not how you start it is how you finish.
-- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
-
 ## nabil
 - What don't kills you makes you more strong.
 - Inefficiency should be punishable.
@@ -18,19 +14,23 @@
 - I am more thankful to my past selfs than they are proud of me.
 - যাকে নিয়ে খারাপ কথা বলতে ভয় করে, তাকে নিয়ে ভালো কথা বলবো কেন?
 
-## sharafat
-- There's no end to EXPLORATION!!!
-- You'll lose the moment, you give up.
+## SadmanKabir
+- Be yourself; everyone else is already taken.
+- Life is really simple, but we insist on making it complicated.
+- Believe in yourself, for you are capable of extraordinary things.
 
 ## NAYEMA
 -  Constantly transform the thoughts of the mind into reality.
 -  Never hide your weakness.
 -  When you change your thoughts, remember to also change your world. -Norman Vincent Peale
 
-## SadmanKabir
-- Be yourself; everyone else is already taken.
-- Life is really simple, but we insist on making it complicated.
-- Believe in yourself, for you are capable of extraordinary things.
+## sharafat
+- There's no end to EXPLORATION!!!
+- You'll lose the moment, you give up.
+
+## Maynul Islam Munna
+- It is not how you start it is how you finish.
+- Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
 
 ## sr-tamim
 - It is better to export talent than waste it
