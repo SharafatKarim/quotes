@@ -7,16 +7,6 @@
 
  ![quotes](https://socialify.git.ci/SharafatKarim/quotes/image?description=1&forks=1&issues=1&language=1&name=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Auto)
 
-## SadmanKabir
-- Be yourself; everyone else is already taken.
-- Life is really simple, but we insist on making it complicated.
-- Believe in yourself, for you are capable of extraordinary things.
-
-## sharafat
-- There's no end to EXPLORATION!!!
-- You'll lose the moment, you give up.
-- Every sequence has consequences! 
-
 ## KaziRifatMorshed
 - "To live is to think." - Marcus Tullius Cicero
 - “Power tends to corrupt and absolute power corrupts absolutely. Great men are almost always bad men, even when they exercise influence and not authority; still more when you superadd the tendency of the certainty of corruption by authority.” - Lord Anton
@@ -41,12 +31,10 @@
 - The quieter you become, the more you are able to hear
 - Don't waste time on woman
 
-## nabil
-- What don't kills you makes you more strong.
-- Inefficiency should be punishable.
-- Dream does come true, but what after that? More Dreams.
-- I am more thankful to my past selfs than they are proud of me.
-- যাকে নিয়ে খারাপ কথা বলতে ভয় করে, তাকে নিয়ে ভালো কথা বলবো কেন?
+## sharafat
+- There's no end to EXPLORATION!!!
+- You'll lose the moment, you give up.
+- Every sequence has consequences! 
 
 ## Maynul Islam Munna
 - It is not how you start it is how you finish.
@@ -56,6 +44,18 @@
 -  Constantly transform the thoughts of the mind into reality.
 -  Never hide your weakness.
 -  When you change your thoughts, remember to also change your world. -Norman Vincent Peale
+
+## nabil
+- What don't kills you makes you more strong.
+- Inefficiency should be punishable.
+- Dream does come true, but what after that? More Dreams.
+- I am more thankful to my past selfs than they are proud of me.
+- যাকে নিয়ে খারাপ কথা বলতে ভয় করে, তাকে নিয়ে ভালো কথা বলবো কেন?
+
+## SadmanKabir
+- Be yourself; everyone else is already taken.
+- Life is really simple, but we insist on making it complicated.
+- Believe in yourself, for you are capable of extraordinary things.
 
 # Contribution
 
