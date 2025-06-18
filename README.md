@@ -57,6 +57,10 @@
 - It is not how you start it is how you finish.
 - Everything in this world is temporary.Life changes.People come and go.And seasons never last.So,no matter what you're going through right now,always remember that your present situation is not your final destination.Don't give up.
 
+## asadmash
+- Knowing is not enough, we must apply. willing is not enough, we must do.
+- You can't cross the sea merely by standing and staring at the water.
+
 # Contribution
 
 Let the power of words weave its magic, igniting sparks of inspiration and fostering a vibrant community united by the beauty of language. Join us on this remarkable journey of sharing, connecting, and celebrating the extraordinary impact of words in our lives. Welcome to "Words of Wisdom," where every contribution shines brightly, illuminating the path to greatness.
